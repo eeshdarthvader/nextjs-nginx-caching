@@ -4,6 +4,8 @@
 
 https://steveholgado.com/nginx-for-nextjs/
 
+#### Screenshot
 
+![screenshot](./screenshot.png)
 
 
